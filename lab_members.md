@@ -14,14 +14,17 @@ I started as an Assistant Professor in the Electrical Engineering & Computer Sci
 
 ## **Current Students**
 
-### Jarred K. (Summer 2021 - Present)
-Jarred is evaluating ensemble techniques for handling imbalanced genomics data in classification problems.
+### John P. (Winter 2019 - Present)
+John has been a member of the lab since Winter 2019.  John is working on integrating multi-omics data to identify and annotate putative functional components of enhancer sequences.
 
-### Daniel L. (Fall 2020 - Present)
-Daniel worked on inversion detection using k-mer count features and is now exploring approaches for predicting TF-DNA motifs binding pairs.
+### Sam K. (Summer 2022 - Present)
+Sam is evaluating techniques for clustering enhancers based on the correlation of their variants to identify enhancers impacted by the same evolutionary processes.
 
-### John P. (Winter 2019-2020, Winter 2021 - Present)
-John worked in the lab during the 2019-2020 and 2020-2021 Winter quarters.  In his first rotation, John explored and optimized the use of ensembles to reduce variance in predictions of enhancer activity from logistic regression models using k-mer count features.  John is working on integrating multi-omics data to identify and annotate putative functional components of enhancer sequences.
+### Alex M. (Summer 2022 - Present)
+Alex is evaluating graph learning and other approaches for developing permutation-invariant ML models.  Alex's work is a prerequisite for creating supervised models for inversion detection and segmentation.
+
+## Sumedha S. (Fall 2022 - Present)
+Sumedha is working on creating a dashboard for the multi-omics analsysis tool that will allow identifying sequences of interest for further study.
 
 ## **Alumni**
 
@@ -45,3 +48,16 @@ Andrew analyzed differences between FAIRE peaks for versions 3 and 5 of the *Aed
 
 ### Matt A. (Summer 2019, Fall 2020 - Spring 2021)
 Matt worked with me during the summer of 2019 and is back for the 2020-2021 academic year.  Matt is a junior in the [Computer Science](https://www.msoe.edu/academics/undergraduate-degrees/engineering/computer-science/) program at MSOE.  Matt previously implemented a population genetics simulator and explored how different processes of molecular evolution present in PCA of SNP data.  This year, Matt is working on automating parameter selection for the inversion detection using machine learning.
+
+### Jarred K. (Summer 2021 - Spring 2022)
+Jarred evaluated ensemble techniques for handling imbalanced genomics data in classification problems.
+
+### José H. (Summer 2022)
+José prototyped a GUI application for annotating peaks in functional genomics data.  José's tool will make it easier to curate high-quality training sets for the next generation of ML-based peak callers.
+
+### Rachel M. (Summer 2022)
+Rachel, a biology major from nearby Alverno College, analyzed distributions of enhancers and genes in the _Anopheles coluzzii_ mosquito genome.
+
+### Daniel L. (Fall 2020 - Summer 2022)
+Daniel worked on a variety of projects related inversion detection with k-mer count features.
+
