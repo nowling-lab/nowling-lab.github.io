@@ -23,7 +23,7 @@ Sam is evaluating techniques for clustering enhancers based on the correlation o
 ### Alex M. (Summer 2022 - Present)
 Alex is evaluating graph learning and other approaches for developing permutation-invariant ML models.  Alex's work is a prerequisite for creating supervised models for inversion detection and segmentation.
 
-## Sumedha S. (Fall 2022 - Present)
+### Sumedha S. (Fall 2022 - Present)
 Sumedha is working on creating a dashboard for the multi-omics analsysis tool that will allow identifying sequences of interest for further study.
 
 ## **Alumni**
