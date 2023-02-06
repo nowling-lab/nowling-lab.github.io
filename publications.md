@@ -12,9 +12,11 @@ RJ Nowling​​, F Fallas-Moya​, A Sadovnik, SJ Emrich, M Aleck, D Leskiewicz
 
 I Holm, L Nardini, A Pain, E Bischoff, CE Anderson, S Zongo, WM Guelbeogo, N Sagnon, DM Gohl, RJ Nowling, KD Vernick, and MM Riehle. [Comprehensive Genomic Discovery of Non-Coding Transcriptional Enhancers in the African Malaria Vector Anopheles coluzzii](https://www.frontiersin.org/articles/10.3389/fgene.2021.785934/full). *Front. Genet.* 2022
 
-F Fallas-Moya, RJ Nowling, SJ Emrich and A Sadovnik, [Automated Detection and Localization of Genome Inversions using Principal Component Analysis](https://ieeexplore.ieee.org/document/9612782). 2021. *IEEE 3rd International Conference on BioInspired Processing (BIP)*.
+F Fallas-Moya, RJ Nowling, SJ Emrich and A Sadovnik, [Automated Detection and Localization of Genome Inversions using Principal Component Analysis](https://ieeexplore.ieee.org/document/9612782). *IEEE 3rd International Conference on BioInspired Processing (BIP)* 2021.
 
 RJ Nowling, SK Behura, MS Halfon, SJ Emrich, and M Duman-Scheel. [PeakMatcher facilitates updated Aedes aegypti embryonic cis-regulatory element map](https://hereditasjournal.biomedcentral.com/articles/10.1186/s41065-021-00172-2). *Hereditas* 158, Article number: 7 (2021). **Arthropod Genomics thematic series**
+
+PV Hickner, N Timoshevskaya, RJ Nowling, F Labbé, A. Nguyen, MA McDowell, CN Spiegel, and Z Syed. [Molecular Signatures of Sexual Communication in the Phlebotomine Sand Flies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008967). PLoS Neglected Tropical Diseases 14 (12): e0008967. 2020.
 
 RJ Nowling, KR Manke, and SJ Emrich. [Detecting Inversions with PCA in the Presence of Population Structure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240429). *PLoS One*. 2020.
 
@@ -28,7 +30,7 @@ RJ Nowling and SJ Emrich. [Adjusted Likelihood-Ratio Test for Variants with Unkn
 
 RJ Nowling and SJ Emrich. [Stable Feature Ranking with Logistic Regression Ensembles](/publications/BIBM_2017.pdf). *Proceedings of the 2017 IEEE International Conference on Bioinformatics and Biomedicine* (IEEE BIBM 2017), October 2017.
 
-RJ Nowling, JL Abrudan, DA Shoue, B Abdul-Wahid, M Wadsworth, G Stayback, FH Collins, MA McDowell, and JA Izaguirre. [Identification of novel arthropod vector G protein-coupled receptors](https://parasitesandvectors.biomedcentral.com/articles/10.1186/1756-3305-6-150). *Parasites & Vectors* 2013 6:150.
+RJ Nowling, JL Abrudan, DA Shoue, B Abdul-Wahid, M Wadsworth, G Stayback, FH Collins, MA McDowell, and JA Izaguirre. [Identification of novel arthropod vector G protein-coupled receptors](https://parasitesandvectors.biomedcentral.com/articles/10.1186/1756-3305-6-150). *Parasites & Vectors* 6:150. 2013.
 
 
 ## Posters
