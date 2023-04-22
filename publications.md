@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-This page contains a list of selected publications.  For a full list, please see my [Google Scholar profile page](https://scholar.google.com/citations?user=a80X8MUAAAAJ&hl=en).
+This page contains a list of selected publications.  For a full list, please see RJ's [Google Scholar profile page](https://scholar.google.com/citations?user=a80X8MUAAAAJ&hl=en).
 
 ## Conference and Journal Papers
 
