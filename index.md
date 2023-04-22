@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 ---
 Welcome to the Nowling Lab web site.  I am an Associate Professor of Computer Science in the Electrical Engineering & Computer Science department of the [Milwaukee School of Engineering](https://www.msoe.edu).  MSOE is a primarily-undergraduate polytechnic offering students a challenging academic environment with small classes that emphasizes hands-on learning.  Our CS program emphasizes data science and machine learning as critical skills for all graduates.
 
