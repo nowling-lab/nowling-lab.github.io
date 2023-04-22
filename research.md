@@ -16,7 +16,8 @@ We are working on methods for detecting inversions from population genomics data
 
 **Papers:**
 
-* RJ Nowling​​, F Fallas-Moya​, A Sadovnik, SJ Emrich, M Aleck, D Leskiewicz, and JG Peters.  [Fast, low-memory detection and localization of large, polymorphic inversions from SNPs](https://peerj.com/articles/12831/). *PeerJ*. 2022.
+* RJ Nowling, SH Keyser, AR Moran, JG Peters, and D Leskiewicz. Segmenting and Genotyping Large, Polymorphic Inversions. *Proceedings of te 2023 IEEE International Conference Electro Information Technology* (IEE EIT 2023). May 2023.
+* RJ Nowling, F Fallas-Moya, A Sadovnik, SJ Emrich, M Aleck, D Leskiewicz, and JG Peters.  [Fast, low-memory detection and localization of large, polymorphic inversions from SNPs](https://peerj.com/articles/12831/). *PeerJ*. 2022.
 * F Fallas-Moya, RJ Nowling, SJ Emrich and A Sadovnik, [Automated Detection and Localization of Genome Inversions using Principal Component Analysis"](https://ieeexplore.ieee.org/document/9612782). 2021. *IEEE 3rd International Conference on BioInspired Processing (BIP)*.
 * RJ Nowling, KR Manke, and SJ Emrich. [Detecting Inversions with PCA in the Presence of Population Structure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240429). *PLoS One*. 2020.
 * RJ Nowling and SJ Emrich. [Detecting Chromosomal Inversions from Dense SNPs by Combining PCA and Association Tests](https://dl.acm.org/citation.cfm?id=3233571). *Proceedings of the 9th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics* (ACM-BCB 2018), August 2018. [Slides from the Talk](/publications/RNowling_ACMBCB2018_slides.pdf) [Paper](/publications/ACMBCB_2018.pdf)
@@ -62,12 +63,3 @@ As part of a project to develop novel insecticides, I worked on developing a cla
 **Posters:**
 * RJ Nowling,  M Wadsworth, JL Abrudan, DA Shoue, B Abdul-Wahid, G Stayback, FH Collins, MA McDowell, and JA Izaguirre. [Identifying GPCRs in the Genome of the Sand Fly *P. papatasi* using Ensemble\*](/publications/AGS_2013.pdf). Poster presentation at the 7th Annual Arthropod Genomics Symposium, June 2013, Notre Dame, IN.
 * RJ Nowling, JL Abrudan, DA Shoue, B Abdul-Wahid, M Wadsworth, G Stayback, FH Collins, MA McDowell, and JA Izaguirre. [Evaluation and Development of GPCR Classifiers for Vectors](/publications/Eck_Institute_Retreat_2013.pdf). Poster presentation at the Second Annual Eck Institute for Global Health Research Retreat, January 2013, Notre Dame, IN.
-
-## Biomedical Image Segmentation
-Outside of my work in bioinformatics, I collaborated with researchers at the [Medical College of Wisconsin](https://www.mcw.edu/) on applications of deep learning to biomedical image segmentation.  [U-Net](https://arxiv.org/abs/1505.04597) is a relatively new architecture that combines convolutional neural networks and variational autoencoders to perform segmentation.   My students and I evaluated the efficacy of the U-Net model on a range of segmentation tasks for Magnetic Resonance Imaging (MRI) data.
-
-**Papers:**
-* RJ Nowling, J Bukowy, SD McGarry, AS Nencka, O Blasko, J Urbain, A Lowman, A Barrington, A Banerjee, KA Iczkowski, and PS LaViolette. Classification Before Segmentation: Improved U-Net Prostate Segmentation." *Proceedings of the 2019 IEEE-EMBS International Conference on Biomedical and Health Informatics* (IEEE BHI 2019). Accepted for oral presentation.
-
-**Posters:**
-* RJ Nowling, J Bukowy, SD McGarry, AS Nencka, J Urbain, A Lowman, M Hohenwalter, A Banjeree, K Iczkowski, and PS LaViolette. [Cascading Classifiers Improve Prostate Segmentation](/publications/ISMRM_2019_abstract.pdf). Poster presentation at the International Society for Magnetic Resonance in Medicine 27th Annual Meeting, May 2019, Montreal, Canada. 
