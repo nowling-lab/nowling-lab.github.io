@@ -8,15 +8,17 @@ This page contains a list of selected publications.  For a full list, please see
 
 ## Conference and Journal Papers
 
-RJ Nowling, SH Keyser, AR Moran, JG Peters, and D Leskiewicz. Segmenting and Genotyping Large, Polymorphic Inversions. *Proceedings of the 2023 IEEE International Conference on Electro Information Technology* (IEEE EIT 2023). May 2023.
+RJ Nowling, K Njoya, JG Peters, MM Riehle. [Prediction accuracy of regulatory elements from sequence varies by functional sequencing technique](https://www.frontiersin.org/articles/10.3389/fcimb.2023.1182567/full). *Frontiers in Cellular and Infection Microbiology.* 2023.
 
-F Labbé, M Abdeladhim, JP Abrudan, A Saori Araki, RN Araujo, P Arensburger, JB Benoit, et al. 2023. [Genomic Analysis of Two Phlebotomine Sand Fly Vectors of Leishmania from the New and Old World.](https://doi.org/10.1371/journal.pntd.0010862) *PLoS Neglected Tropical Diseases 17 (4): e0010862.*
+RJ Nowling, SH Keyser, AR Moran, JG Peters, and D Leskiewicz. [Segmenting and Genotyping Large, Polymorphic Inversions](https://ieeexplore.ieee.org/abstract/document/10187331). *Proceedings of the 2023 IEEE International Conference on Electro Information Technology* (IEEE EIT 2023). 2023.
+
+F Labbé, M Abdeladhim, JP Abrudan, A Saori Araki, RN Araujo, P Arensburger, JB Benoit, et al. [Genomic Analysis of Two Phlebotomine Sand Fly Vectors of Leishmania from the New and Old World.](https://doi.org/10.1371/journal.pntd.0010862) *PLoS Neglected Tropical Diseases 17 (4): e0010862.* 2023.
 
 RJ Nowling, F Fallas-Moya, A Sadovnik, SJ Emrich, M Aleck, D Leskiewicz, and JG Peters.  [Fast, low-memory detection and localization of large, polymorphic inversions from SNPs](https://peerj.com/articles/12831/). *PeerJ*. 2022.
 
 I Holm, L Nardini, A Pain, E Bischoff, CE Anderson, S Zongo, WM Guelbeogo, N Sagnon, DM Gohl, RJ Nowling, KD Vernick, and MM Riehle. [Comprehensive Genomic Discovery of Non-Coding Transcriptional Enhancers in the African Malaria Vector Anopheles coluzzii](https://www.frontiersin.org/articles/10.3389/fgene.2021.785934/full). *Front. Genet.* 2022
 
-F Fallas-Moya, RJ Nowling, SJ Emrich and A Sadovnik, [Automated Detection and Localization of Genome Inversions using Principal Component Analysis](https://ieeexplore.ieee.org/document/9612782). *IEEE 3rd International Conference on BioInspired Processing (BIP)* 2021.
+F Fallas-Moya, RJ Nowling, SJ Emrich and A Sadovnik. [Automated Detection and Localization of Genome Inversions using Principal Component Analysis](https://ieeexplore.ieee.org/document/9612782). *IEEE 3rd International Conference on BioInspired Processing (BIP)* 2021.
 
 RJ Nowling, SK Behura, MS Halfon, SJ Emrich, and M Duman-Scheel. [PeakMatcher facilitates updated Aedes aegypti embryonic cis-regulatory element map](https://hereditasjournal.biomedcentral.com/articles/10.1186/s41065-021-00172-2). *Hereditas* 158, Article number: 7 (2021). **Arthropod Genomics thematic series**
 

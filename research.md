@@ -16,9 +16,9 @@ We are working on methods for detecting inversions from population genomics data
 
 **Papers:**
 
-* RJ Nowling, SH Keyser, AR Moran, JG Peters, and D Leskiewicz. Segmenting and Genotyping Large, Polymorphic Inversions. *Proceedings of the 2023 IEEE International Conference on Electro Information Technology* (IEEE EIT 2023). May 2023. [Slides](/publications/IEEE_EIT_2023_slides.pdf) [Paper](/publications/IEEE_EIT_2023.pdf)
+* RJ Nowling, SH Keyser, AR Moran, JG Peters, and D Leskiewicz. [Segmenting and Genotyping Large, Polymorphic Inversions](https://ieeexplore.ieee.org/abstract/document/10187331). *Proceedings of the 2023 IEEE International Conference on Electro Information Technology* (IEEE EIT 2023). 2023.
 * RJ Nowling, F Fallas-Moya, A Sadovnik, SJ Emrich, M Aleck, D Leskiewicz, and JG Peters.  [Fast, low-memory detection and localization of large, polymorphic inversions from SNPs](https://peerj.com/articles/12831/). *PeerJ*. 2022.
-* F Fallas-Moya, RJ Nowling, SJ Emrich and A Sadovnik, [Automated Detection and Localization of Genome Inversions using Principal Component Analysis"](https://ieeexplore.ieee.org/document/9612782). 2021. *IEEE 3rd International Conference on BioInspired Processing (BIP)*.
+* F Fallas-Moya, RJ Nowling, SJ Emrich and A Sadovnik. [Automated Detection and Localization of Genome Inversions using Principal Component Analysis"](https://ieeexplore.ieee.org/document/9612782). 2021. *IEEE 3rd International Conference on BioInspired Processing (BIP)*.
 * RJ Nowling, KR Manke, and SJ Emrich. [Detecting Inversions with PCA in the Presence of Population Structure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240429). *PLoS One*. 2020.
 * RJ Nowling and SJ Emrich. [Detecting Chromosomal Inversions from Dense SNPs by Combining PCA and Association Tests](https://dl.acm.org/citation.cfm?id=3233571). *Proceedings of the 9th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics* (ACM-BCB 2018), August 2018. [Slides from the Talk](/publications/RNowling_ACMBCB2018_slides.pdf) [Paper](/publications/ACMBCB_2018.pdf)
 
@@ -36,6 +36,7 @@ My lab works on regulatory genomics from two angles.  First, we are collaborate 
 
 **Papers:**
 
+* RJ Nowling, K Njoya, JG Peters, MM Riehle. [Prediction accuracy of regulatory elements from sequence varies by functional sequencing technique](https://www.frontiersin.org/articles/10.3389/fcimb.2023.1182567/full). *Frontiers in Cellular and Infection Microbiology.* 2023.
 * I Holm, L Nardini, A Pain, E Bischoff, CE Anderson, S Zongo, WM Guelbeogo, N Sagnon, DM Gohl, RJ Nowling, KD Vernick, and MM Riehle. [Comprehensive Genomic Discovery of Non-Coding Transcriptional Enhancers in the African Malaria Vector Anopheles coluzzii](https://www.frontiersin.org/articles/10.3389/fgene.2021.785934/full). *Front. Genet.* 2022
 * RJ Nowling, SK Behura, MS Halfon, SJ Emrich, and M Duman-Scheel. [PeakMatcher facilitates updated Aedes aegypti embryonic cis-regulatory element map](https://hereditasjournal.biomedcentral.com/articles/10.1186/s41065-021-00172-2). *Hereditas* 158, Article number: 7 (2021). **Arthropod Genomics thematic series**
 
